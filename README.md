@@ -1,4 +1,4 @@
-# 🌀 Maze Runner
+# Maze Runner
 
 A Python-based maze game built using the **Turtle Graphics** library.  
 The player navigates through a maze, avoids enemies, and tries to reach the treasure portal to win.

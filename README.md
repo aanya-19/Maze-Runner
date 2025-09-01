@@ -14,6 +14,8 @@ The player navigates through a maze, avoids enemies, and tries to reach the trea
   - Player vs. Enemy → **Game Over!**
 - Simple but fun retro-style visuals using custom GIF sprites.
 
+<img width="671" height="675" alt="image" src="https://github.com/user-attachments/assets/26e86df2-a358-44b9-9f77-c3c357379819" />
+
 ---
 
 ## 🚀 How to Run
